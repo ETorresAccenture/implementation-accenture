@@ -1,0 +1,7 @@
+[
+    {
+        value: "edu",
+        label: " edu"
+    }
+
+]
